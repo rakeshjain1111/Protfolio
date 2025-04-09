@@ -387,7 +387,7 @@ header.shadow {
     position: relative;
     float: left;
     width: 42%;
-    background: #f3f0f0;
+    background: #6b6bf2;
     border: 1px solid #d4d4d4;
     border-radius: 5px;
     padding: 20px;
@@ -402,8 +402,8 @@ header.shadow {
     right: -15px;
     display: inline-block;
     border-top: 15px solid transparent;
-    border-left: 15px solid #ccc;
-    border-right: 0 solid #ccc;
+    border-left: 15px solid #910404;
+    border-right: 0 solid #5b0808;
     border-bottom: 15px solid transparent;
     content: " ";
   }
@@ -414,8 +414,8 @@ header.shadow {
     right: -14px;
     display: inline-block;
     border-top: 14px solid transparent;
-    border-left: 14px solid #fff;
-    border-right: 0 solid #fff;
+    border-left: 14px solid #310303;
+    border-right: 0 solid #770707;
     border-bottom: 14px solid transparent;
     content: " ";
   }
@@ -479,7 +479,7 @@ header.shadow {
     text-transform: uppercase;
   }
   .title2 {
-      color: #148914; 
+      color: #aa0404; 
       font-family: 'Alegreya', serif;
       font-weight: 580;
       font-size: 22px;
